@@ -2,4 +2,14 @@
   border: solid black 2px;
   height: 100px;
   width: 200px;
+  float: left;
+}
+
+#cardb {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: black;
 }
